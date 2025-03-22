@@ -4,9 +4,9 @@
 
 ## 참여 인원
 
-| [홍가영](https://github.com/kaouo) | [김동현](https://github.com/Dev-KimDonghyun) | [이승헌](https://github.com/12seungheon) | [홍가영2](https://github.com/kaouo) |
+| [홍가영](https://github.com/kaouo) | [김동현](https://github.com/Dev-KimDonghyun) | [이승헌](https://github.com/12seungheon) | [김수현](https://github.com/Kim-Suhyun) |
 |:--:|:--:|:--:|:--:|
-| <img src="https://avatars.githubusercontent.com/u/144293040?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/188938473?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/164005659?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/125368624?v=4" width="100"/> |
+| <img src="https://avatars.githubusercontent.com/u/144293040?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/188938473?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/164005659?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/117374542?v=4" width="100"/> |
 
 
 
