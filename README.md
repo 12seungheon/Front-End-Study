@@ -11,7 +11,7 @@
 
 
 ## 📆 스케줄표(스프레드시트)
-- [👉 스케줄표 바로가기](https://docs.google.com/spreadsheets/d/1XuaLa4wmp7Enq5g93WkmWvLEb5FaILLZ05e7wOrMrSs/edit#gid=0)
+- [👉 스케줄표 바로가기](https://www.notion.so/55yong/1b82cbaa1e6980c492fdc993292975e8?pvs=4)
 - 각자 학습한 챕터의 완료 날짜, 학습 시간, 이해도를 표시합니다.
 
 
