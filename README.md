@@ -1,5 +1,5 @@
 # Frontend-Study
-멋쟁이사자처럼 12기 프론트엔드 스터디 (20240325 ~ 20240608)
+멋쟁이사자처럼 13기 (영남이공대학교 2기) 프론트엔드 상반기 스터디
                 
 ## 참여 인원 
 | [홍가영](https://github.com/kaouo) | [오용준<스터디장>](https://github.com/55yong) | [이승헌](https://github.com/12seungheon) |
