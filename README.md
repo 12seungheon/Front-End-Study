@@ -9,13 +9,12 @@
 |:--:|:--:|:--:|:--:|
 | <img src="https://avatars.githubusercontent.com/u/144293040?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/132319467?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/164005659?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/125368624?v=4" width="100"/> |
 
----
+
 
 ## 📆 스케줄표(스프레드시트)
 - [👉 스케줄표 바로가기](https://docs.google.com/spreadsheets/d/1XuaLa4wmp7Enq5g93WkmWvLEb5FaILLZ05e7wOrMrSs/edit#gid=0)
 - 각자 학습한 챕터의 완료 날짜, 학습 시간, 이해도를 표시합니다.
 
----
 
 ## 📌 규칙
 
@@ -25,17 +24,14 @@
 - 매주 **회고록을 작성하고, 서로 피드백 댓글 작성**
 - **매주 토요일 18시까지 PR 마감**
 
----
 
 ## 📁 파일명
 - **예정** (곧 확정할게요!)
 
----
 
 ## ❌ 불참 시
 - 스터디장의 장문의 카톡이 기다립니다 🫠
 
----
 
 ## ✅ 출결
 
